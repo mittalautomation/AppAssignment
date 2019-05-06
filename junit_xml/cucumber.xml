@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="0.214893">
+<testcase classname="Create Application" name="_2" time="0.214893">
+<system-out><![CDATA[When User enter fromDate "28/12/2017".......................................passed
+And User enter toDate "08/03/2018"..........................................passed
+Then Calculate Instrumentwise traded volume and List of instrument not traded between the daterange.passed
+]]></system-out>
+</testcase>
+</testsuite>

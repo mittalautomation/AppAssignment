@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="95" started-at="2019-05-06T06:38:37Z" finished-at="2019-05-06T06:38:37Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="95" started-at="2019-05-06T06:38:37Z" finished-at="2019-05-06T06:38:37Z">
+      <class name="com.app.pages.AppOperationPage">
+        <test-method status="PASS" signature="getInstrumentwiseTraded()[pri:0, instance:com.app.pages.AppOperationPage@42d80b78]" name="getInstrumentwiseTraded" duration-ms="63" started-at="2019-05-06T12:08:37Z" finished-at="2019-05-06T12:08:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getInstrumentwiseTraded -->
+        <test-method status="PASS" signature="getListOfInstrumentnotTraded()[pri:0, instance:com.app.pages.AppOperationPage@42d80b78]" name="getListOfInstrumentnotTraded" duration-ms="0" started-at="2019-05-06T12:08:37Z" finished-at="2019-05-06T12:08:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getListOfInstrumentnotTraded -->
+      </class> <!-- com.app.pages.AppOperationPage -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

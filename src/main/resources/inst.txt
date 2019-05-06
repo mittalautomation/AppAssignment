@@ -1,0 +1,6 @@
+InstId,InstName
+IN1,Shares Google
+IN2,Shares IBM
+IN3,Shares Jio
+In4,Shares Infosys
+In5,Shares Wipro
